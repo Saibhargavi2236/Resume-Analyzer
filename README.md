@@ -1,5 +1,6 @@
 # AI Resume Analyzer
 
+
 An **AI‑powered Resume Analyzer** that automatically analyzes resumes using **Machine Learning and Natural Language Processing (NLP)**.  
 The system predicts the most suitable **job role**, extracts **skills**, identifies **skill gaps**, and calculates an **ATS (Applicant Tracking System) score**.
 
